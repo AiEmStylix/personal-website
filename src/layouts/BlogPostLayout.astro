@@ -1,0 +1,21 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+
+const { frontmatter } = Astro.props;
+---
+
+<BaseLayout title={frontmatter.title}>
+    <div class="mb-4">
+        <h1 class="font-bold">{frontmatter.title}</h1>
+        <time class="text-gray-500 text-sm"
+            >{
+                frontmatter.date.toLocaleDateString("en-US", {
+                    year: "numeric",
+                    month: "long",
+                    day: "numeric",
+                })
+            }</time
+        >
+    </div>
+    <slot />
+</BaseLayout>

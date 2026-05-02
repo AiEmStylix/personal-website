@@ -1,0 +1,47 @@
+---
+import Github from "./icon/Github.astro";
+import Linkedin from "./icon/Linkedin.astro";
+import Codeberg from "./icon/Codeberg.astro";
+import Email from "./icon/Email.astro";
+---
+
+<footer
+    class="text-gray-400 text-sm flex justify-between items-center my-2 mx-4"
+>
+    <div>&copy; {new Date().getFullYear()} Vu Binh Duong.</div>
+    <!-- Icon part -->
+    <div class="flex flex-row gap-2">
+        <a
+            class="text-sm text-gray-500 transition hover:text-gray-600 pointer"
+            target="_blank"
+            rel="noopener noreferrer pointer"
+            href="mailto:anhduongfa@gmail.com"
+        >
+            <Email />
+        </a>
+        <a
+            class="text-sm text-gray-500 transition hover:text-gray-600 pointer"
+            target="_blank"
+            rel="noopener noreferrer pointer"
+            href="https://github.com/AiEmStylix"
+        >
+            <Github />
+        </a>
+        <a
+            class="text-sm text-gray-500 transition hover:text-gray-600 pointer"
+            target="_blank"
+            rel="noopener noreferrer pointer"
+            href="https://codeberg.org/stylix"
+        >
+            <Codeberg />
+        </a>
+        <a
+            class="text-sm text-gray-500 transition hover:text-gray-600 pointer"
+            target="_blank"
+            rel="noopener noreferrer pointer"
+            href="https://linkedin.com/in/v%C5%A9-b%C3%ACnh-d%C6%B0%C6%A1ng-893a13290/"
+        >
+            <Linkedin />
+        </a>
+    </div>
+</footer>
