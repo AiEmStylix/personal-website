@@ -13,7 +13,7 @@ const sortedPosts = allPosts.sort(
     <ul>
         {
             sortedPosts.map((post) => (
-                <li class="mb-4">
+                <li class="mb-4 md:flex flex-row justify-between">
                     {/* post.id chính là tên file (không có phần mở rộng) */}
                     <a class="font-bold" href={`/posts/${post.id}`}>
                         <h2>{post.data.title}</h2>

@@ -1,5 +1,5 @@
 ---
-title: "Markdown test in Astro"
+title: "Markdown Test In Astro"
 date: 2023-10-27
 description: "Đây là tài liệu dùng để kiểm tra khả năng render Markdown của project Astro."
 slug: 'test-post'
