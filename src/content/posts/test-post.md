@@ -74,7 +74,7 @@ Hình ảnh kèm văn bản thay thế:
 
 > Đây là một khối trích dẫn.
 >
-> "Sự đơn giản là tinh hoa của sự tinh tế." - Leonardo da Vinci.
+> “One must imagine Sisyphus happy.” - Albert Camus, Le Mythe de Sisyphe
 >> Đây là trích dẫn lồng nhau cấp 2.
 
 ---
