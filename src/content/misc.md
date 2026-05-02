@@ -1,0 +1,1 @@
+* [My GPG Public Key](/gpg.txt)
