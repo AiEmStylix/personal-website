@@ -1,6 +1,6 @@
 ---
 title: "Markdown Test In Astro"
-date: 2023-10-27
+date: 2026-5-4
 description: "Đây là tài liệu dùng để kiểm tra khả năng render Markdown của project Astro."
 slug: 'test-post'
 author: "Astro Developer"
