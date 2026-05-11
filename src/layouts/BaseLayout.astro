@@ -10,9 +10,11 @@ const { title } = Astro.props;
 <!doctype html>
 <html lang="en">
     <BaseHead title={title} />
-    <body class="min-h-screen max-w-5xl flex flex-col mx-4 lg:mx-auto overflow-x-hidden">
+    <body
+        class="min-h-screen max-w-5xl flex flex-col mx-4 lg:mx-auto overflow-x-hidden"
+    >
         <div
-            class="flex flex-col md:flex-row items-start flex-1 mt-8 md:mt-20 lg:mt-32 min-w-0 w-full"
+            class="flex flex-col md:flex-row md:items-start flex-1 mt-8 md:mt-20 lg:mt-32 min-w-0 w-full"
         >
             <Header />
             <main class="flex-1 my-12 mx-4 min-w-0">
