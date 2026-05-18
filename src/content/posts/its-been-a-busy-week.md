@@ -20,7 +20,7 @@ But being a delivery driver isn't sustainable for the long term; I’m only doin
 
 It’s been so busy lately that I've forgotten to practice drawing. I guess I need to finish my 3 semester projects first, then spend at least 15 minutes a day practicing.
 
-Aside from all the academic and work chaos, I’ve also been fighting the urge to reach out to someone. I keep questioning my own motives - do I actually want to reconnect, or am I just looking for a quick fix to fill the sudden emptiness of a grueling week? I respect and value them way too much to use them as an emotional cushion just because I'm feeling lonely. So for now, I'm holding back.
+Aside from all the academic and work chaos, I’ve also been fighting the urge to reach out to someone. I keep questioning my own motives - do I actually want to reconnect, or am I just looking for a quick fix to fill the sudden emptiness of a grueling week? I respect and value them way too much to use them as a temporary fix to fill the void just because I'm feeling lonely. So for now, I'm holding back.
 
 I was born in May. That’s why my life is full of maybes. Maybe it’s good, maybe it’s bad. Who knows?
 
